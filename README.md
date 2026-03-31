@@ -1,4 +1,4 @@
-# OrganizAI - Frontend
+# OrganizAI - Frontendaa
 
 OrganizAI es una aplicación web para la gestión inteligente de tareas y horarios académicos. Permite a estudiantes organizar sus tareas, definir su disponibilidad horaria y generar un cronograma personalizado de estudio, integrándose con un backend que realiza la planificación automática.
 
